@@ -3,7 +3,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="ct_dev_rename">Approve payment</string>
     <string name="ct_dev_same">Share the bill with <xliff:g id="friendName" example="Alex">%1$s</xliff:g></string>
-    <string name="ct_dev_taken">Decline payment</string>
+    <string name="ct_dev_taken">Decline payment3</string>
     <string name="ct_dev_copied">Cancel transfer</string>
     <string name="ct_dev_shared_a">Schedule payment</string>
     <string name="ct_dev_shared_b">Schedule payment</string>
